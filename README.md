@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @aliarta021
+- 👋 Hi, I’m Alireza
+- 🏠 22 y.o. from Kerman
 - 👀 I’m interested in mobile programing.
 - 🌱 I’m currently learning flutter.
+- 🐦 Now I'm using Flutter at avapardaz.vc
 - 💞️ I’m looking to collaborate on flutter project.
-- 📫 How to reach me : aliarta021@gmail.com
+- 📫 reach me at t.me/aliarta021
 
 <!---
 aliarta021/aliarta021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
